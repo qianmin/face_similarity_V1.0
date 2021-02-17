@@ -5,5 +5,6 @@
 2：人脸数据在data压缩包内，解压到ipynb同级目录
 3：效果如下图所示
 ```
+![](./result_img/4.png)
 ![](./result_img/1.png)
 ![](./result_img/2.png)
